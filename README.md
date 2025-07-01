@@ -1,11 +1,14 @@
- <h3>Bank Account Simulation</h3>
+ <h1>Bank Account Simulation</h1>
+ 
  <br>This Java program simulates a simple Bank Account Management System using object-oriented programming. 
- <h1>PIN Verification </h1>
+
+ <h3>PIN Verification </h3>
  - The user is first prompted to enter a PIN (3032).
 
 - Only if the entered PIN matches, the user is allowed to access the account menu.
 
- <h1>Main Menu Options </h1>
+ <h3>Main Menu Options </h3>
+ 
  The menu provides the following choices:
 
 Check Balance – Displays the current account balance.
