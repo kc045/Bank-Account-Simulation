@@ -11,13 +11,13 @@
  
  The menu provides the following choices:
 
-Check Balance – Displays the current account balance.
+1. Check Balance – Displays the current account balance.
+   
+2. Withdraw Money – Allows the user to withdraw money if sufficient balance exists.
 
-Withdraw Money – Allows the user to withdraw money if sufficient balance exists.
+3. Deposit Money – Lets the user deposit money into the account.
 
-Deposit Money – Lets the user deposit money into the account.
-
-Exit – Terminates the session.
+4. Exit – Terminates the session.
 
 - Uses Scanner for user input.
 
